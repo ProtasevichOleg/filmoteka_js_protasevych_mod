@@ -2,19 +2,19 @@
   "name": "filmoteka_js_adaptive_1280px_768px_320px",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dmytromykolaichuk.github.io/filmoteka_js_adaptive_1280px_768px_320px",
+  "homepage": "https://ProtasevichOleg.github.io/filmoteka_js_protasevych_mod",
   "scripts": {
     "start": "parcel src/*.html --port 4040",
-    "build": "parcel build src/*.html --public-url /filmoteka_js_adaptive_1280px_768px_320px/"
+    "build": "parcel build src/*.html --public-url /filmoteka_js_protasevych_mod/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dmytromykolaichuk/filmoteka_js_adaptive_1280px_768px_320px.git"
+    "url": "git+https://github.com/ProtasevichOleg/filmoteka_js_protasevych_mod.git"
   },
   "keywords": [],
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dmytromykolaichuk/filmoteka_js_adaptive_1280px_768px_320px/issues"
+    "url": "https://github.com/ProtasevichOleg/filmoteka_js_protasevych_mod/issues"
   },
   "dependencies": {
     "axios": "^1.3.4",
